@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: example-pkg-shawlu95
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/shawlu95/packaging_tutorial
+Author: shawlu95
+Author-email: shawlu95@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/shawlu95/packaging_tutorial
+Project-URL: Tutorial, https://packaging.python.org/tutorials/packaging-projects
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Packaging Tutorial
+* Author: https://github.com/shawlu95
+* Project: https://github.com/shawlu95/packaging_tutorial
+* Tutorial: https://packaging.python.org/tutorials/packaging-projects/
+
